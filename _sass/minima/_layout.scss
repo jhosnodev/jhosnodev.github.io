@@ -354,10 +354,11 @@
 
   .right-side {
     width: 50%;
-    display: flex;
-
+  height: 100%;
+  display: flex;
     img {
-      width: 50%;
+      width: auto;
+      height: 80%;
       margin: auto;
     }
   }
